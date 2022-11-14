@@ -3,6 +3,7 @@ Contains links to practice projects.
 
 ## [SQL Projects](https://github.com/tazinnn/SQLProjects)
 1. [Danny's Diner](https://github.com/tazinnn/SQLProjects/tree/main/8WeekSQLChallenge/%231%20Danny's%20Diner)
+2. [Covid Data Analysis](https://github.com/tazinnn/SQLProjects/tree/main/Covid%20Data)
 
 ## [Excel Projects](https://github.com/tazinnn/ExcelProjects)
 1. [Bike Sales Dashboard](https://github.com/tazinnn/ExcelProjects#bike-sales-dashboard)
