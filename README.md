@@ -8,6 +8,7 @@ Contains links to practice projects.
 ## [Excel Projects](https://github.com/tazinnn/ExcelProjects)
 1. [Bike Sales Dashboard](https://github.com/tazinnn/ExcelProjects#bike-sales-dashboard)
 2. [Awesome Chocolates](https://github.com/tazinnn/ExcelProjects/tree/main/Awesome%20Chocolates)
+3. [Nashville Housing Data](https://github.com/tazinnn/DataCleaning)
 
 
 ## [Tableau Projects](https://public.tableau.com/app/profile/tahmina.nasrin.tazin)
